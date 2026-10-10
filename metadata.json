@@ -1,0 +1,6 @@
+{
+  "name": "GameZone PK",
+  "description": "Pakistan's premier free-to-play skill gaming platform featuring Memory Match, Quick Tap, Pakistan Brain Quiz, verified leaderboards, bilingual English/Urdu interface, and compliant Easypaisa merchant gateway readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
